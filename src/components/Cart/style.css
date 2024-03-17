@@ -1,0 +1,13 @@
+.product {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  justify-items: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+  
+.product__list {
+  display: grid;
+  row-gap: 50px;
+}
+  

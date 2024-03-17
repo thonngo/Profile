@@ -1,0 +1,29 @@
+[
+    { 
+        "id": 1,
+        "img": "cart1.png",
+        "name": "NIKE AIR JORDAN 1 LOW",
+        "description": "Nike Air Jordan 1 Retro High OG Taxi / Yellow Toe - это кроссовки из коллекции Jordan Brand, выпущенные в 2022 году. Эти кроссовки представляют собой обновленную версию классических моделей.",
+        "count": 1,
+        "price": 10000,
+        "priceTotal": 10000
+    },
+    { 
+        "id": 2,
+        "img": "cart2.png",
+        "name": "NIKE AIR JORDAN 2 LOW",
+        "description": "Nike Air Jordan 2 Retro High OG Taxi / Yellow Toe - это кроссовки из коллекции Jordan Brand, выпущенные в 2022 году. Эти кроссовки представляют собой обновленную версию классических моделей.",
+        "count": 1,
+        "price": 20000,
+        "priceTotal": 20000
+    },
+    { 
+        "id": 3,
+        "img": "cart3.png",
+        "name": "NIKE AIR JORDAN 3 LOW",
+        "description": "Nike Air Jordan 3 Retro High OG Taxi / Yellow Toe - это кроссовки из коллекции Jordan Brand, выпущенные в 2022 году. Эти кроссовки представляют собой обновленную версию классических моделей.",
+        "count": 1,
+        "price": 30000,
+        "priceTotal": 30000
+    }
+]

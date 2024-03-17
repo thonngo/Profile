@@ -1,0 +1,9 @@
+.cart-header {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    justify-items: center;
+    background-color: #eaeff2;
+    padding: 22px 0;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}

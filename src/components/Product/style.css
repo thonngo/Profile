@@ -1,0 +1,21 @@
+.product__content {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: 1fr 2fr 0.5fr 0.5fr;
+}
+  
+.product__text {
+  font-size: 16px;
+  font-weight: 400;
+}
+  
+.product__controls {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+  
+.product__price {
+  text-align: center;
+}

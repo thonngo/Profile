@@ -1,0 +1,14 @@
+.count {
+  display: flex;
+  column-gap: 5px;
+}
+  
+.count__input {
+  text-align: center;
+  padding-top: 4px;
+}
+  
+.count__input::-webkit-inner-spin-button,
+.count__input::-webkit-outer-spin-button {
+  appearance: none;
+}
